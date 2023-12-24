@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "username": "sanjeev",
+      "email": "dsrsanjeev28@gmail.com",
+      "password": "$2a$05$SZHP8ZqHZBu5BRYLQItlcuZJD2Q9jT.CNHn170UD2oAA5Up8sxb1O",
+      "radio": "on",
+      "agreement": true,
+      "id": 1
+    },
+    {
+      "username": "sanjeev1234",
+      "email": "dsrsanjeev28@gmail.com",
+      "password": "$2a$05$uasTltHMwY9vMz2phoJgtOoB7q/Owhqq7Y8P.SWCbTMjbh4rvr2ZW",
+      "radio": "on",
+      "agreement": true,
+      "id": 2
+    },
+    {
+      "username": "Sanju",
+      "email": "dsrsanjeev28@gmail.com",
+      "password": "$2a$05$kEQN6ZTIwEXLlgjnvalBMu.YIDvnzd2Af0/YRk7vBbugOMB4vJA4y",
+      "radio": "on",
+      "agreement": true,
+      "id": 3
+    },
+    {
+      "username": "sssss",
+      "email": "ss@gmail.com",
+      "password": "$2a$05$r1EKcuDHvdxb2a3CDB8VE.233z7xRpbfX0FCacqBCki7jihUAaboq",
+      "radio": "on",
+      "agreement": true,
+      "id": 4
+    },
+    {
+      "username": "Sanjeev2803",
+      "email": "dsrsanjeev28@gmail.com",
+      "password": "$2a$05$goxsCygnNPduE1jE615DzOh5Up5un8SOT4VpByaUiYoY4j8a/U3Jy",
+      "radio": "on",
+      "agreement": true,
+      "id": 5
+    }
+  ]
+}
